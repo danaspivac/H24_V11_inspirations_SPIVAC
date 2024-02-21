@@ -32,11 +32,19 @@ Alliant magistralement faux _documentaires, chorégraphies, évocations de prati
 ![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/description.jpg?raw=true)
 
 
-## vue ensemble d'ecrans
+## Vue ensemble d'ecrans
 
 ![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/vue_emnsemble1.jpg?raw=true)
 ![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/vue_ensemble2.jpg?raw=true)
 
+
+## Mise en espace
+
+Afin que tout soit visible en même temps pour le spectateur, les 7 écrans sont placés sous un léger angle, chacun orienté dans la même direction. Malheureusement, à la Fonderie, l'espace d'exposition est trop petit, ce qui rend difficile de trouver un endroit d'où tous les écrans sont visibles en même temps, sans avoir à tourner la tête. Personnellement j'ai pu regarder 3 écrans d'un côté et les 4 autres séparément. 
+Les écrans doivent être placés _plus loin_ des spectateurs afin qu'ils puissent tout voir en même temps
+
+![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/vue_ensemble_ecrans.jpg?raw=true)
+![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/structure.jpg?raw=true)
 
 
 
