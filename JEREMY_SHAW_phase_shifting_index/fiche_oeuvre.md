@@ -17,7 +17,7 @@ L'exposition est organisée par le **Musée d'art contemporain de Montréal**, a
 
 ## Description de l'oeuvre
 
-Vaste installation vidéo immersive à sept canaux, _Phase Shifting Index_ est une rêverie parascientifique exaltante d’une grande ambition intellectuelle et artistique, et le point culminant des travaux récents de Shaw. Dans ce qui semble être une étude anthropologique d’un futur lointain, une narration commente de manière rétrospective l’émergence de nouvelles réalités déconcertantes sur sept écrans affichant ce qui s’avère être des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont captées dans les formats de l’époque – allant du film 16 mm au VHS en passant par le Hi-8. 
+Vaste installation vidéo immersive à sept canaux, _Phase Shifting Index_ est une rêverie parascientifique exaltante d’une grande ambition intellectuelle et artistique, et le point culminant des travaux récents de Shaw. Dans ce qui semble être une étude anthropologique d’un futur lointain, une narration commente de manière rétrospective l’émergence de nouvelles réalités déconcertantes sur sept écrans affichant ce qui s’avère être des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. 
 
 Les mouvements de types rituels et cathartiques exécutés dans les séquences diffusées simultanément sur des écrans indépendants – qui peuvent être considérés individuellement ou ensemble depuis une plateforme surélevée – évoquent des cultures uniques dont les systèmes de croyances sont fondés sur l’idée d’induire des réalités parallèles par le mouvement. 
 
@@ -47,7 +47,10 @@ Les écrans doivent être placés _plus loin_ des spectateurs afin qu'ils puisse
 ![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/structure.jpg?raw=true)
 
 
+## Composantes et techniques
 
+L'oeuvre este composee par 7 ecrans chacun affichant une vidéo tournée en VHS ou en noir et blanc, pour ajouter un effet rétro à l'œuvre. 
+Le visuel est soigneusement conçu pour donner un aspect ancien aux vidéos, des tenues inspirées des années 80 aux chorégraphies. Le spectateur est immergé dans une expérience en 3D où l'image visuelle est associée au son, le projetant dans un futur dystopique.
 
 
 
