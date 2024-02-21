@@ -1,2 +1,2 @@
 
-Ce dossier contient toutes les photos et vidéos que j'ai pris pendant ma visite au exposition.
+Ce dossier contient toutes les photos que j'ai pris pendant ma visite au exposition.
