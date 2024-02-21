@@ -32,6 +32,13 @@ Alliant magistralement faux _documentaires, chorégraphies, évocations de prati
 ![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/description.jpg?raw=true)
 
 
+## vue ensemble d'ecrans
+
+![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/vue_emnsemble1.jpg?raw=true)
+![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/vue_ensemble2.jpg?raw=true)
+
+
+
 
 
 
