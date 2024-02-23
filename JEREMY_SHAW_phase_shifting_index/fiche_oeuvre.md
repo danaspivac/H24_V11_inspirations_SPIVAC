@@ -44,7 +44,7 @@ Afin que tout soit visible en même temps pour le spectateur, les 7 écrans sont
 Les écrans doivent être placés _plus loin_ des spectateurs afin qu'ils puissent tout voir en même temps
 
 ![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/vue_ensemble_ecrans.jpg?raw=true)
-![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/structure.jpg?raw=true)
+![](JEREMY_SHAW_phase_shifting_index/media/structure.jpg)
 
 
 ## Composantes et techniques
