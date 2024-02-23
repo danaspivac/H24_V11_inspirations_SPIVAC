@@ -40,10 +40,8 @@ Alliant magistralement faux _documentaires, chorégraphies, évocations de prati
 
 ## Mise en espace
 
-Afin que tout soit visible en même temps pour le spectateur, les 7 écrans sont placés sous un léger angle, chacun orienté dans la même direction. Malheureusement, à la Fonderie, l'espace d'exposition est trop petit, ce qui rend difficile de trouver un endroit d'où tous les écrans sont visibles en même temps, sans avoir à tourner la tête. Personnellement j'ai pu regarder 3 écrans d'un côté et les 4 autres séparément. 
-Les écrans doivent être placés _plus loin_ des spectateurs afin qu'ils puissent tout voir en même temps
+Afin que tout soit visible en même temps pour le spectateur, les 7 écrans sont placés sous un léger angle, chacun orienté dans la même direction. 
 
-![](/JEREMY_SHAW_phase_shifting_index/media/vue_ensemble_ecrans.jpg)
 ![](/JEREMY_SHAW_phase_shifting_index/media/structure.jpg)
 
 
@@ -52,7 +50,37 @@ Les écrans doivent être placés _plus loin_ des spectateurs afin qu'ils puisse
 L'oeuvre este composee par 7 ecrans chacun affichant une vidéo tournée en VHS ou en noir et blanc, pour ajouter un effet rétro à l'œuvre. 
 Le visuel est soigneusement conçu pour donner un aspect ancien aux vidéos, des tenues inspirées des années 80 aux chorégraphies. Le spectateur est immergé dans une expérience en 3D où l'image visuelle est associée au son, le projetant dans un futur dystopique.
 
+![](/JEREMY_SHAW_phase_shifting_index/media/vue_individuelle1.jpg)
+![](/JEREMY_SHAW_phase_shifting_index/media/vue_individuelle2.jpg)
+![](/JEREMY_SHAW_phase_shifting_index/media/vue_individuelle3.jpg)
 
 
+## Éléments nécessaires à la mise en exposition
+
+On a beaucoup d'éléments nécessaires pour la mise en exposition d'une oeuvre multimédia. Pour la mise en exposition de _Phase Shifting Index_  on a utilisé des écrans, des projectors pour la projection des vidéos, des lumières LED et bien sûr des câbles pour connecter le son et les images.
+
+![](/JEREMY_SHAW_phase_shifting_index/media/lumiere.jpg)
+![](/JEREMY_SHAW_phase_shifting_index/media/eclairage2.jpg)
+![](/JEREMY_SHAW_phase_shifting_index/media/eclairage3.jpg)
+
+## Expérience vécue
 
 
+Le spectateur s'assoit devant les écrans. Il y a des sièges qui permettent de tout voir dans son ensemble ou des sièges plus proches des écrans pour que le spectateur puisse se concentrer sur une représentation à la fois.
+Au fil du temps, les mouvements des personnes filmées deviennent de plus en plus violents, les lumières commencent à clingoter et le son devient de plus en plus intense. Les vidéos qui se déroulent toutes dans des « mondes » différents avec des protagonistes différents commencent à se synchroniser, créant un effet hallucinant.
+À la fin de la performance, alors que tout devenait de plus en plus intense, j'avais l'impression de faire partie du monde imaginaire créé par l'artiste. Je pouvais sentir l’œuvre d’art avec tous mes sens.
+
+![](/JEREMY_SHAW_phase_shifting_index/media/video_oeuvre.mp4)
+
+
+## Inspiration
+
+J'ai beaucoup aimé comment les performances, apparemment différentes les unes des autres, se synchronisaient vers la fin et comment le son et l'image devenaient progressivement de plus en plus intenses. J'ai aussi adoré les mots choisis par l'artiste pour les monologues, car chacun d'eux ajoutait à l'effet futuriste de l'œuvre.
+
+![](/JEREMY_SHAW_phase_shifting_index/media/vue_individuelle4.jpg)
+
+## Aspects negatifs
+
+Je pense que pour une œuvre d’art aussi énorme, un espace d’exposition beaucoup plus grand est nécessaire. Pour pouvoir voir tous les écrans en même temps, je devais quand même tourner ma tête. J'ai pu regarder 3 écrans d'un côté et les 4 autres séparément. Idéalement, je pense que les téléspectateurs devraient pouvoir voir confortablement les 7 écrans en même temps, donc si je devais faire quelque chose différemment, je choisirais un espace d'exposition plus grand.
+
+![](/JEREMY_SHAW_phase_shifting_index/media/vue_ensemble_ecrans.jpg)
