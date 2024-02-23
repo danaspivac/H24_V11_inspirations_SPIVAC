@@ -3,16 +3,16 @@
 
 ## _Phase Shifting Index_ de Jeremy Shaw
 Le 2 février 2024, on a visité l'exposition multimédia **_Phase Shifting Index_**  de Jeremy Shaw. C'est une exposition temporaire (de 12.12.2023 à 25.02.2024) qui a lieu dans l'intérieur de la _**Fonderie Darling**_
-![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/entrance.jpg?raw=true)
-![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/poster_exposition.jpg?raw=true)
+![](/JEREMY_SHAW_phase_shifting_index/media/entrance.jpg)
+![](/JEREMY_SHAW_phase_shifting_index/media/poster_exposition.jpg)
 
 
 
 
 
 L'exposition est organisée par le **Musée d'art contemporain de Montréal**, au Fonderie Darling un lieu d'expositions d'art contemporain, ainsi qu'un lieu de résidence pour les artistes.
-![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/fonderie_exterieur.jpg?raw=true)
-![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/fonderie_exterieur2.jpg?raw=true)
+![](/JEREMY_SHAW_phase_shifting_index/media/fonderie_exterieur.jpg)
+![](/JEREMY_SHAW_phase_shifting_index/media/fonderie_exterieur2.jpg)
 
 
 ## Description de l'oeuvre
@@ -29,13 +29,13 @@ Alliant magistralement faux _documentaires, chorégraphies, évocations de prati
 
 [**source**](https://fonderiedarling.org/Phase-Shifting-Index)
 
-![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/description.jpg?raw=true)
+![](/JEREMY_SHAW_phase_shifting_index/media/description.jpg)
 
 
 ## Vue ensemble d'ecrans
 
-![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/vue_emnsemble1.jpg?raw=true)
-![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/vue_ensemble2.jpg?raw=true)
+![](/JEREMY_SHAW_phase_shifting_index/media/vue_emnsemble1.jpg)
+![](/JEREMY_SHAW_phase_shifting_index/media/vue_ensemble2.jpg)
 
 
 ## Mise en espace
@@ -43,7 +43,7 @@ Alliant magistralement faux _documentaires, chorégraphies, évocations de prati
 Afin que tout soit visible en même temps pour le spectateur, les 7 écrans sont placés sous un léger angle, chacun orienté dans la même direction. Malheureusement, à la Fonderie, l'espace d'exposition est trop petit, ce qui rend difficile de trouver un endroit d'où tous les écrans sont visibles en même temps, sans avoir à tourner la tête. Personnellement j'ai pu regarder 3 écrans d'un côté et les 4 autres séparément. 
 Les écrans doivent être placés _plus loin_ des spectateurs afin qu'ils puissent tout voir en même temps
 
-![](https://github.com/danaspivac/H24_V11_inspirations_SPIVAC/blob/main/JEREMY_SHAW_phase_shifting_index/media/vue_ensemble_ecrans.jpg?raw=true)
+![](/JEREMY_SHAW_phase_shifting_index/media/vue_ensemble_ecrans.jpg)
 ![](/JEREMY_SHAW_phase_shifting_index/media/structure.jpg)
 
 
