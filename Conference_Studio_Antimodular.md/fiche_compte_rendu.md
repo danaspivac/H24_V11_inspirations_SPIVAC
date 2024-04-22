@@ -8,7 +8,8 @@ Rafael Lozano-Hemmer est un artiste multimedia mexicain. Dans son studio, etabli
 
 Jade nous a également parlé de la dernière installation de Rafael Lozano Hemmer, _Translation Island_ à Dubaï. Il a fallu 3 jours pour mettre en scène l'installation interactive qui s'étend sur 2,2 km. Il y a 10 œuvres interactives dans l'installation, et environ 5000 objets ont été nécessaires pour leur fonctionnement, tels que des projecteurs, des lasers, des câbles, etc.
 
-![]()
+![](/Conference_Studio_Antimodular.md/media/collider_abu_dhabi_2023_pt_006.jpg)
+voici une photo de l'installation _Translation Island_ [source](https://www.lozano-hemmer.com/exhibitions/rafael_lozano-hemmer_translation_island_abu_dhabi_2023.php)
 
 En assistant à la conférence, j'ai pris conscience de la quantité de travail et du nombre réel de personnes qui se trouvent dans les coulisses d'une exposition, Jade expliquant et démontrant à la perfection les avantages et les inconvénients du travail dans l'atelier d'artiste. L’artiste n’est donc pas le seul à être à l’origine d’une exposition réussie. L'équipe de professionnels de différents domaines est nécessaire, chacun travaillant sur un petit détail qui, ensemble, créent une véritable œuvre et une expérience inoubliable pour le public.
 
