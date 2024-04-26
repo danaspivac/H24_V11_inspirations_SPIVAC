@@ -9,7 +9,7 @@
 Collège Montmorency, _475 Boul De L'avenir, Laval, Qc, Canada_
 Date des visite: 12/3/24
 
-![](/Crescentia/media/canevascosmique1.jpg)
+![](/Crescentia/media/canevas_cosmique2.jpg)
 
 **Titre de l'oeuvre:** Canevas Cosmique
 **Realiseé par:** Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau
