@@ -1,7 +1,7 @@
 
 # CENTRE DES SCIENCES
 
-!()[/Centre des Sciences/media/centre_des_sciences.jpg]
+!() [/Centre des Sciences/media/centre_des_sciences.jpg]
 
 ## INFORMATIONS
 **Lieu de la visite:** Centre Des Sciences, _2 Rue de la Commune O, Montréal, QC, Canada_
@@ -20,8 +20,8 @@ Type d'installation: Intéractive
 
 _Et si l'on pouvai remplacer nos organes_ est une oeuvre interactive qui permet aux utilisateurs d'essayer faire un transplant fictive d'organes. On doit deviner le bon organe de remplacement et les bons instruments chirurgicaux dont il a besoin.
 
-!()[/Centre des Sciences/media/fiche_oeuvre.jpg]
-!()[/Centre des Sciences/media/oeuvre_centre_sciences.jpg]
+!() [/Centre des Sciences/media/fiche_oeuvre.jpg]
+!() [/Centre des Sciences/media/oeuvre_centre_sciences.jpg]
 
 
 ## MISE EN ESPACE
