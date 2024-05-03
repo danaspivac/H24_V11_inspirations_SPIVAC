@@ -38,6 +38,6 @@ Cet dispositif est composé d'un écran tactile sur le dessus d'une table. En cl
 ![](/Centre_des_Sciences/media/operation.jpg)
 
 
-## EXPERIENCE VECUE
+## EXPÉRIENCE VÉCUE
 Je pense que c'est un excellent moyen d'enseigner la médecine aux enfants de manière amusante, tout en se sentant importants pour sauver la vie du 'patient' et choisir le bons instruments ou organes. 
 C'était ma œuvre préférée car elle me rappelait les jeux au "docteur" auxquels je jouais quand j'étais petite. 
