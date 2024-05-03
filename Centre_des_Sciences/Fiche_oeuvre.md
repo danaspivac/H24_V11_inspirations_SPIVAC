@@ -1,6 +1,6 @@
 # CENTRE DES SCIENCES
 
-![](/Centre des Sciences/media/centre_des_sciences.jpg)
+![](/Centre_des_Sciences/media/centre_des_sciences.jpg)
 
 
 ## INFORMATIONS
@@ -20,22 +20,22 @@ Type d'installation: Intéractive
 
 _Et si l'on pouvai remplacer nos organes_ est une oeuvre interactive qui permet aux utilisateurs d'essayer faire un transplant fictive d'organes. On doit deviner le bon organe de remplacement et les bons instruments chirurgicaux dont il a besoin.
 
-![](/Centre des Sciences/media/fiche_oeuvre.jpg)
-![](/Centre des Sciences/media/oeuvre_centre_sciences.jpg)
+![](/Centre_des_Sciences/media/fiche_oeuvre.jpg)
+![](/Centre_des_Sciences/media/oeuvre_centre_sciences.jpg)
 
 
 ## MISE EN ESPACE
 
 Cette oeuvre se trouve au début de la partie de l'exposition liée au corps humain.
 
-![](/Centre des Sciences/media/centre_sciences_interieur.jpg)
+![](/Centre_des_Sciences/media/centre_sciences_interieur.jpg)
 
 
 ## COMPOSANTS ET TECHNIQUES
 
 Cet dispositif est composé d'un écran tactile sur le dessus d'une table. En cliquant sur l'écran tactile, l'utilisateur peut mener la "operation" et remplacer les organes endommagés par des alternatives artificieles
 
-![](/Centre des Sciences/media/operation.jpg)
+![](/Centre_des_Sciences/media/operation.jpg)
 
 
 ## EXPERIENCE VECUE
